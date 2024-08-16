@@ -1,0 +1,6 @@
+github.com/EvilBytecode/GoDefender v1.1.2 h1:HCcPl6xj64Uit5X1+cyIGHzXDN3ARSqjXjw8SdYSxEU=
+github.com/EvilBytecode/GoDefender v1.1.2/go.mod h1:Svwm/sVJa7wUozXqayDQeQFbKPyiNqZng3Os3t/bMPA=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+golang.org/x/sys v0.21.0 h1:rF+pYz3DAGSQAxAu1CbC7catZg4ebC4UIeIhKxBZvws=
+golang.org/x/sys v0.21.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
