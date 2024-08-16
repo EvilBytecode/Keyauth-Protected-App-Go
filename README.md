@@ -15,3 +15,6 @@ Keyauth-Protected-App-Go is a Go-based application that integrates with the KeyA
 
 # To-Do:
 - Add Patch for LoadLibraryA/W.
+
+# Credit:
+- https://github.com/KeyAuth/KeyAuth-Go-Example
